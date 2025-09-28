@@ -25,3 +25,8 @@ git commit -m "first readme commit"
 
 # Push the readme branch to the remote repository and set upstream
 git push -u origin readme
+
+# Enlaces a los pull requests
+1. https://github.com/Giusstation3/museo_soumaya/pull/1
+
+2. 
