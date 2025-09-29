@@ -27,6 +27,12 @@ git commit -m "first readme commit"
 git push -u origin readme
 
 # Enlaces a los pull requests
-1. https://github.com/Giusstation3/museo_soumaya/pull/1
 
-2. 
+https://github.com/Giusstation3/museo_soumaya/pull/1
+
+
+
+# Enlace a la página Github pages
+
+https://giusstation3.github.io/museo_soumaya/
+
